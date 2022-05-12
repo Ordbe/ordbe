@@ -2,13 +2,13 @@
 # Hi, I'm Vadim! :wave: </br>
 ___
 ## Contacts:
-[<img src="https://i.hh.ru/favicons/hh.ico?v=2015_03_17">](https://spb.hh.ru/resume/0d734449ff039026f00039ed1f6e5a3773526d) 
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ordbe) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ordbetests@gmail.com) 
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](mailto:ordbetests@gmail.com) 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/ordbe) 
-:telephone_receiver: +7 (932) 413-77-13 </br>
+[<img src="https://github.com/Ordbe/ordbe/blob/main/hh-round.png?raw=true">](https://spb.hh.ru/resume/0d734449ff039026f00039ed1f6e5a3773526d) 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/ordbe) 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/gm-round.png?raw=true">](mailto:ordbetests@gmail.com) 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/wh-round.png?raw=true">](https://wa.me/<+79324137713>) 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe) </br>
 :round_pushpin: Saint-Petersburg
+:telephone_receiver: +7 (932) 413-77-13 </br>
 
 ## Looking for QA-engineer position, </br> CV is below :raised_hands: </br>
 - Education
