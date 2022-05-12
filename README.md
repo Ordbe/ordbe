@@ -6,8 +6,9 @@ ___
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ordbe) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ordbetests@gmail.com) 
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](mailto:ordbetests@gmail.com) 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/ordbe) </br>
-:telephone_receiver: +7 (932) 413-77-13 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/ordbe) 
+:telephone_receiver: +7 (932) 413-77-13 </br>
+:round_pushpin: Saint-Petersburg
 
 ## Looking for QA-engineer position, </br> CV is below :raised_hands: </br>
 - Education
