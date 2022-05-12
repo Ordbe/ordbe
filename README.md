@@ -1,7 +1,7 @@
 
-Hi, I'm Vadim! :wave: </br>
+#Hi, I'm Vadim! :wave: </br>
 ___
-## `Contacts:`</br>
+##Contacts:
 [<img src="https://i.hh.ru/favicons/hh.ico?v=2015_03_17">](https://spb.hh.ru/resume/0d734449ff039026f00039ed1f6e5a3773526d) </br>
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ordbe) </br>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ordbetests@gmail.com) </br>
@@ -22,14 +22,14 @@ ___
 - About me
 
 
-###Education
-####Higher education
+###Education </br>
+####Higher education</br>
 **Perm National Research Technical University**
 - "Technosphere safety" *(Bachelor, 2021)*
 - "Automation of manufacturing processes and technological complexes" *(3 courses)*
 - "Translator in the field of professional communications" English language *(3 courses)*
 
-###Working experience
-####Relevant working experience
+###Working experience </br>
+####Relevant working experience </br>
 
-####Irrelevant working experience
+####Irrelevant working experience </br>
