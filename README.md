@@ -19,7 +19,6 @@ ___
     - UI testing
     - Automated testing
   - Irrelevant working experience
-    - Manufacture
 - About me
 
 
@@ -34,3 +33,8 @@ ___
 #### Relevant working experience </br>
 
 #### Irrelevant working experience </br>
+I was indirectly responsible for the quality of final products during work in gas/oil and other manufactories. 
+Zest in development of information products and services was impulsed me to change the area of work.
+Different tasks, communication with associates improved my soft skills and did me able to solve the problems 
+easier and more efficient. In addition general knowledge in computer science and near-mathematical higher education 
+let me to catch up hard skills faster.
