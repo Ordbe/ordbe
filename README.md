@@ -29,11 +29,19 @@ ___
 - "Automation of manufacturing processes and technological complexes" *(3 courses)*
 - "Translator in the field of professional communications" English language *(3 courses)*
 
+### :wrench: Technical stack
+
+
 ### Working experience </br>
 #### Relevant working experience </br>
 
-#### Irrelevant working experience </br>
-I was indirectly responsible for the quality of final products during work in gas/oil and other manufactories. 
+#### :factory: Irrelevant working experience </br>
+For more than 8 years I was responsible for the quality of final products during work in gas/oil and other manufactories. 
+Work of operator included consecution and improvment of proper regulations to avoid spoilage of final product. Other work in 
+assembling high voltage transformators included following drawing design and correcting of inconsistencies by cooperation with
+technical department.
+
+### About me
 Zest in development of information products and services was impulsed me to change the area of work.
 Different tasks, communication with associates improved my soft skills and did me able to solve the problems 
 easier and more efficient. In addition general knowledge in computer science and near-mathematical higher education 
