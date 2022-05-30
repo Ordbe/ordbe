@@ -15,6 +15,8 @@ ___
 - Working experience
 - About me
 
+</br>
+</br>
 
 ### Education </br>
 #### :mortar_board: Higher education </br>
@@ -38,15 +40,20 @@ ___
 - PyCharm, VSCode
 - Selenium
 
+</br>
+</br>
 
 ### Working experience </br>
 #### Relevant working experience </br>
 
-#### :factory: Irrelevant working experience </br>
+#### :factory: Near-relevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas/oil and other manufactories. 
 Work of operator included consecution and improvment of proper regulations to avoid spoilage of final product. Other work in 
 assembling high voltage transformators included according to drawed design and correcting of inconsistencies by cooperation with
 technical department.
+
+</br>
+</br>
 
 ### :v: About me
 Zest in development of information products and services was impulsed me to change the area of work.
