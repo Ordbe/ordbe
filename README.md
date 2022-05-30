@@ -53,6 +53,9 @@ technical department.
 
 </br>
 
+### Key skills </br>
+
+
 ### :v: About me
 Zest in development of information products and services was impulsed me to change the area of work.
 Different tasks, communication with associates improved my soft skills and did me able to solve the problems 
