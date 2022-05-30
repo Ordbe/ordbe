@@ -10,26 +10,33 @@ ___
 :round_pushpin: Saint-Petersburg </br>
 :telephone_receiver: +7 (932) 413-77-13 </br>
 
-## Looking for QA-engineer position, </br> CV is below :raised_hands: </br>
+## Seeking for QA-engineer position, </br> CV is below :raised_hands: </br>
 - Education
 - Working experience
-  - Relevant experience
-    - Test plan of e2e testing 
-    - API testing
-    - UI testing
-    - Automated testing
-  - Irrelevant working experience
 - About me
 
 
 ### Education </br>
-#### Higher education</br>
+#### :mortar_board: Higher education </br>
 **Perm National Research Technical University**
 - "Technosphere safety" *(Bachelor, 2021)*
 - "Automation of manufacturing processes and technological complexes" *(3 courses)*
 - "Translator in the field of professional communications" English language *(3 courses)*
 
+#### :books: Other education </br>
+- Self dependent studying of testing theory and instruments
+- Interactive simulator of working with database on MySQL engine
+- Interactive simulator of devising algorithms with python
+- Experience of programming in courseworks while studied in university
+
 ### :wrench: Technical stack
+- Postman
+- MySQL
+- Fiddler, Charles
+- Chrome DevTools
+- GitLab
+- PyCharm, VSCode
+- Selenium
 
 
 ### Working experience </br>
@@ -38,10 +45,10 @@ ___
 #### :factory: Irrelevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas/oil and other manufactories. 
 Work of operator included consecution and improvment of proper regulations to avoid spoilage of final product. Other work in 
-assembling high voltage transformators included following drawing design and correcting of inconsistencies by cooperation with
+assembling high voltage transformators included according to drawed design and correcting of inconsistencies by cooperation with
 technical department.
 
-### About me
+### :v: About me
 Zest in development of information products and services was impulsed me to change the area of work.
 Different tasks, communication with associates improved my soft skills and did me able to solve the problems 
 easier and more efficient. In addition general knowledge in computer science and near-mathematical higher education 
