@@ -65,7 +65,7 @@ ___
 
 #### :factory: Near-relevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas and other manufactories. 
-Work of operator included consecution and improvment of proper regulations to avoid spoilage of final product. Other work in 
+Work of operator included consecution and improvment of proper regulations to avoid spoilage of final product. Another experience in 
 assembling high voltage transformators included according to drawed design and correcting of inconsistencies by cooperation with
 technical department.
 
