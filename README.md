@@ -11,13 +11,14 @@ ___
 :telephone_receiver: +7 (932) 413-77-13 </br>
 
 ## Seeking for QA-engineer position, </br> CV is below :raised_hands: </br>
-- Education
-- Working experience
-- About me
+- [Education](#education)
+- [Working experience](#workingexperience)
+- [About me](#aboutme)
 
 </br>
 
-### Education </br>
+### Education<a name="education"></a>
+___
 #### :mortar_board: Higher education </br>
 **Perm National Research Technical University**
 - "Technosphere safety" *(Bachelor, 2021)*
@@ -39,9 +40,15 @@ ___
 - PyCharm, VSCode
 - Selenium
 
+### Key skills </br>
+- B2 English language
+- Creation of test artifacts
+- API testing
+- 
 </br>
 
-### Working experience </br>
+### Working experience<a name="workingexperience"></a>
+___
 #### :pushpin: Relevant working experience </br>
 
 
@@ -53,10 +60,8 @@ technical department.
 
 </br>
 
-### Key skills </br>
-
-
-### :v: About me
+### :v: About me<a name="aboutme"></a>
+___
 Zest in development of information products and services was impulsed me to change the area of work.
 Different tasks, communication with associates improved my soft skills and did me able to solve the problems 
 easier and more efficient. In addition general knowledge in computer science and near-mathematical higher education 
