@@ -16,7 +16,6 @@ ___
 - About me
 
 </br>
-</br>
 
 ### Education </br>
 #### :mortar_board: Higher education </br>
@@ -41,18 +40,17 @@ ___
 - Selenium
 
 </br>
-</br>
 
 ### Working experience </br>
-#### Relevant working experience </br>
+#### :pushpin: Relevant working experience </br>
+
 
 #### :factory: Near-relevant working experience </br>
-For more than 8 years I was responsible for the quality of final products during work in gas/oil and other manufactories. 
+For more than 8 years I was responsible for the quality of final products during work in gas and other manufactories. 
 Work of operator included consecution and improvment of proper regulations to avoid spoilage of final product. Other work in 
 assembling high voltage transformators included according to drawed design and correcting of inconsistencies by cooperation with
 technical department.
 
-</br>
 </br>
 
 ### :v: About me
