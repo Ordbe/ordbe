@@ -45,6 +45,7 @@ ___
 - Fiddler, Charles
 - Chrome DevTools
 - GitLab
+- JMeter
 - PyCharm, VSCode
 - Selenium
 
@@ -52,7 +53,9 @@ ___
 - B2 English language
 - Creation of test artifacts
 - API testing
-- 
+- stress testing
+- functional testing
+
 </br>
 
 ### Working experience<a name="workingexperience"></a>
@@ -74,3 +77,8 @@ Zest in development of information products and services was impulsed me to chan
 Different tasks, communication with associates improved my soft skills and did me able to solve the problems 
 easier and more efficient. In addition general knowledge in computer science and near-mathematical higher education 
 let me to catch up hard skills faster.
+
+Personal qualities
+- analytical mind
+- healthy perfectionism
+
