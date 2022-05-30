@@ -26,7 +26,15 @@ ___
 - "Translator in the field of professional communications" English language *(3 courses)*
 
 #### :books: Other education </br>
-- Self dependent studying of testing theory and instruments
+- Self dependent studying of testing theory
+  - SDLC, STLC
+  - Architecture and integrations within network
+  - Test design, test management, test artifacts
+  - features of API, Web, mobile, UI/GUI testing
+  - sniffing, mocking
+  - request forming, responce analysis
+  - git and CI principles
+  - automation testing by selenium+python
 - Interactive simulator of working with database on MySQL engine
 - Interactive simulator of devising algorithms with python
 - Experience of programming in courseworks while studied in university
