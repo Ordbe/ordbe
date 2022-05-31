@@ -31,10 +31,10 @@ ___
   - Architecture and integrations within network
   - Test design, test management, test artifacts
   - API, Web, mobile, UI/GUI testing
-  - sniffing, mocking
-  - request forming, responce analysis
-  - git and CI principles
-  - automation testing 
+  - Sniffing, mocking
+  - Request forming, responce analysis
+  - Git and CI principles
+  - Automation testing 
 - Interactive simulator of working with database on MySQL engine
 - Interactive simulator of devising algorithms with python
 - Experience of programming in courseworks while studied in university
@@ -53,8 +53,8 @@ ___
 - B2 English language
 - Creation of test artifacts
 - API testing
-- stress testing
-- functional testing
+- Stress testing
+- Functional testing
 
 </br>
 
@@ -82,5 +82,5 @@ let me to catch up hard skills faster.
 - analytical sight
 - healthy perfectionism
 - self-management
-- open to opinion exchange
+- openness to opinion exchange
 
