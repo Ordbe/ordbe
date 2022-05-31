@@ -30,11 +30,11 @@ ___
   - SDLC, STLC
   - Architecture and integrations within network
   - Test design, test management, test artifacts
-  - features of API, Web, mobile, UI/GUI testing
+  - API, Web, mobile, UI/GUI testing
   - sniffing, mocking
   - request forming, responce analysis
   - git and CI principles
-  - automation testing by selenium+python
+  - automation testing 
 - Interactive simulator of working with database on MySQL engine
 - Interactive simulator of devising algorithms with python
 - Experience of programming in courseworks while studied in university
@@ -47,9 +47,9 @@ ___
 - GitLab
 - JMeter
 - PyCharm, VSCode
-- Selenium
+- Selenium IDE
 
-### Key skills </br>
+### Key points </br>
 - B2 English language
 - Creation of test artifacts
 - API testing
@@ -78,7 +78,9 @@ Different tasks, communication with associates improved my soft skills and did m
 easier and more efficient. In addition general knowledge in computer science and near-mathematical higher education 
 let me to catch up hard skills faster.
 
-Personal qualities
-- analytical mind
+#### :small_orange_diamond: Personal qualities
+- analytical sight
 - healthy perfectionism
+- self-management
+- open to opinion exchange
 
