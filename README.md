@@ -5,7 +5,7 @@ ___
 [<img src="https://github.com/Ordbe/ordbe/blob/main/hh-round.png?raw=true">](https://spb.hh.ru/resume/0d734449ff039026f00039ed1f6e5a3773526d) 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/ordbe) 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/gm-round.png?raw=true">](mailto:ordbetests@gmail.com) 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/wh-round.png?raw=true">](https://wa.me/79324137713?text=Срочно%20предлагаю%20Вам%20оффер!) 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/wh-round.png?raw=true">](https://wa.me/79324137713?text=Вам%20оффер!) 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe) </br>
 :round_pushpin: Saint-Petersburg </br>
 :telephone_receiver: +7 (932) 413-77-13 </br>
@@ -61,6 +61,13 @@ ___
 ### Working experience<a name="workingexperience"></a>
 ___
 #### :pushpin: Relevant working experience </br>
+Practical testing tasks will be supplemented here. Task in progress if there no link to repository.
+Web forms testing:
+- Registration form<a src="https://github.com/Ordbe/Form_testing"></a>
+UI testing:
+API testing:
+Performance testing by JMeter
+Selenium IDE
 
 
 #### :factory: Near-relevant working experience </br>
