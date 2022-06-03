@@ -61,13 +61,13 @@ ___
 ### Working experience<a name="workingexperience"></a>
 ___
 #### :pushpin: Relevant working experience </br>
-Practical testing tasks will be supplemented here. Task in progress if there no link to repository.
-Web forms testing:
-- Registration form<a src="https://github.com/Ordbe/Form_testing"></a>
-UI testing:
-API testing:
-Performance testing by JMeter
-Selenium IDE
+Practical testing tasks will be supplemented here. Task in progress if there no link to repository. </br>
+Web forms testing: </br>
+- [Registration form](https://github.com/Ordbe/Form_testing) </br>
+UI testing: </br>
+API testing: </br>
+Performance testing by JMeter </br>
+Selenium IDE </br>
 
 
 #### :factory: Near-relevant working experience </br>
