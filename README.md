@@ -3,10 +3,10 @@
 ___
 ## Contacts:
 [<img src="https://github.com/Ordbe/ordbe/blob/main/hh-round.png?raw=true">](https://spb.hh.ru/resume/0d734449ff039026f00039ed1f6e5a3773526d "Резюме на hh") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/ordbe "Я в телеге") 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/ordbe "Связаться в Telegram") 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/gm-round.png?raw=true">](mailto:ordbetests@gmail.com "Написать на Gmail") 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/wh-round.png?raw=true">](https://wa.me/79324137713?text=Вам%20оффер! "Связаться в Whatsapp") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe "Моя инстаЭ) </br>
+[<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe "Моя инста") </br>
 :round_pushpin: Saint-Petersburg </br>
 :telephone_receiver: +7 (932) 413-77-13 </br>
 
