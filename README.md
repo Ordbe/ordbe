@@ -63,17 +63,8 @@ ___
 #### :pushpin: Relevant working experience </br>
 Practical testing tasks will be supplemented here. Task in progress if there no link to repository. </br>
 </br>
-Web forms testing: 
-- [Registration form](https://github.com/Ordbe/Form_testing) </br>
-
-UI testing: 
-</br>
-API testing:
-</br>
-Performance testing by JMeter
-</br>
-Selenium IDE 
-</br>
+- [Registration form testing](https://github.com/Ordbe/Form_testing) 
+- [Item card testing (на русском)](
 
 
 #### :factory: Near-relevant working experience </br>
