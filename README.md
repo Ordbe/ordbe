@@ -64,7 +64,7 @@ ___
 Practical testing tasks will be supplemented here. Task in progress if there no link to repository. </br>
 </br>
 - [Registration form testing](https://github.com/Ordbe/Form_testing) 
-- [Item card testing (на русском)](
+- [Item card testing (на русском)](https://github.com/Ordbe/Item_card_testing)
 
 
 #### :factory: Near-relevant working experience </br>
