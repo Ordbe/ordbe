@@ -63,7 +63,7 @@ ___
 #### :pushpin: Relevant working experience </br>
 Practical testing tasks:
 - [Registration form testing](https://github.com/Ordbe/Form_testing) 
-- [Item card testing (на русском)](https://github.com/Ordbe/Item_card_testing)
+- [Item card testing](https://github.com/Ordbe/Item_card_testing) (на русском)
 
 
 #### :factory: Near-relevant working experience </br>
