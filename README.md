@@ -62,10 +62,10 @@ ___
 ___
 #### :pushpin: Relevant working experience </br>
 Practical testing tasks:
-- [Registration form testing](https://github.com/Ordbe/Form_testing) 
+- [Registration form testing](https://github.com/Ordbe/Registration_form_testing/blob/main/README.md) 
 - [Testing item card for service of creating planograms and retail
-merchandise display](https://github.com/Ordbe/Item_card_testing) (на русском)
-- [Testing sleep function in health monitoring app](https://github.com/Ordbe/Sleep_function_testing) (на русском)
+merchandise display](https://github.com/Ordbe/Item_card_testing/blob/main/README.md) (на русском)
+- [Testing sleep function in health monitoring app](https://github.com/Ordbe/Sleep_function_testing/blob/main/README.md) (на русском)
 - ["Titlestyle" field testing](https://github.com/Ordbe/Titlestyle_field/blob/main/README.md) (на русском)
 
 
