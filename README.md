@@ -66,6 +66,7 @@ Practical testing tasks:
 - [Testing item card for service of creating planograms and retail
 merchandise display](https://github.com/Ordbe/Item_card_testing) (на русском)
 - [Testing sleep function in health monitoring app](https://github.com/Ordbe/Sleep_function_testing) (на русском)
+- ["Titlestyle" field testing](https://github.com/Ordbe/Titlestyle_field/blob/main/README.md) (на русском)
 
 
 #### :factory: Near-relevant working experience </br>
