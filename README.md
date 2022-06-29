@@ -47,13 +47,12 @@ ___
 - GitLab
 - JMeter
 - PyCharm, VSCode
-- Selenium IDE
+- PyTest, Selenium WebDriver
 
 ### Key points </br>
 - B2 English language
 - Creation of test artifacts
 - API testing
-- Stress testing
 - Functional testing
 
 </br>
@@ -72,7 +71,7 @@ merchandise display](https://github.com/Ordbe/Item_card_testing/blob/main/README
 #### :factory: Near-relevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas and other manufactories. 
 Work of operator included consecution and improvment of proper regulations to avoid spoilage of final product. Another experience in 
-assembling high voltage transformators included according to drawed design and correcting of inconsistencies by cooperation with
+assembling high voltage transformators included according to drawed design and correcting inconsistencies by cooperation with
 technical department.
 
 </br>
