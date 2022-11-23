@@ -9,7 +9,7 @@ ___
 [<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe "Моя инста")
 [<img src="https://github.com/Ordbe/ordbe/blob/main/linkedin-round.png?raw=true">](https://www.linkedin.com/in/ordbe "Связаться в LinkedIn") </br>
 :round_pushpin: Batumi, Georgia </br>
-:telephone_receiver: [<tel href="tel:+995591501847">] +995 (591) 50-18-47 </tel></br>
+:telephone_receiver: +995 (591) 50-18-47 </br>
 
 ## Seeking for QA-engineer position, </br> CV is below :raised_hands: </br>
 - [Education](#education)
