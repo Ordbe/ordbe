@@ -62,12 +62,14 @@ ___
 ### Working experience<a name="workingexperience"></a>
 ___
 #### :pushpin: Relevant working experience </br>
+1-year of experience as QA engineer in development of web services.
+Skills:
 Estimation
 Test strategy selection
 Creating test plan 
 Creating test-cases, check-lists, bug reports
 Preparation of a test completion reports
-Command Scrum-project
+Scrum
 
 #### :factory: Near-relevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas and other manufactories. 
