@@ -6,7 +6,8 @@ ___
 [<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/ordbe "Связаться в Telegram") 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/gm-round.png?raw=true">](mailto:ordbetests@gmail.com "Написать на Gmail") 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/wh-round.png?raw=true">](https://wa.me/79324137713?text=Вам%20оффер! "Связаться в Whatsapp") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe "Моя инста") </br>
+[<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe "Моя инста")
+[<img src="https://github.com/Ordbe/ordbe/blob/main/LinkedIn-round.png?raw=true">](https://www.linkedin.com/in/ordbe "Связаться в LinkedIn") </br>
 :round_pushpin: Saint-Petersburg </br>
 :telephone_receiver: +7 (932) 413-77-13 </br>
 
