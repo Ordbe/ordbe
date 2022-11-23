@@ -47,10 +47,9 @@ ___
 - MySQL
 - Fiddler, Charles
 - DevTools
-- GitLab
+- Git, bash
 - Swagger
 - Jira, Confluence, Qase.io
-- Bash
 
 ### Key points </br>
 - B2 English language
