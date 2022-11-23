@@ -8,8 +8,8 @@ ___
 [<img src="https://github.com/Ordbe/ordbe/blob/main/wh-round.png?raw=true">](https://wa.me/79324137713?text=Вам%20оффер! "Связаться в Whatsapp") 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe "Моя инста")
 [<img src="https://github.com/Ordbe/ordbe/blob/main/linkedin-round.png?raw=true">](https://www.linkedin.com/in/ordbe "Связаться в LinkedIn") </br>
-:round_pushpin: Saint-Petersburg </br>
-:telephone_receiver: +7 (932) 413-77-13 </br>
+:round_pushpin: Batumi, Georgia </br>
+:telephone_receiver: +995 (591) 50-18-47 </br>
 
 ## Seeking for QA-engineer position, </br> CV is below :raised_hands: </br>
 - [Education](#education)
