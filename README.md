@@ -63,7 +63,7 @@ ___
 ___
 #### :pushpin: Relevant working experience </br>
 1-year manual testing of web services related to commercial activities.
-I was responsible for preparation of new features testing and regression testing.
+I was responsible for new features testing preparation and regression testing.
 
 #### :factory: Near-relevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas and other manufactories. 
