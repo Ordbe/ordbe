@@ -27,28 +27,30 @@ ___
 - "Translator in the field of professional communications" English language *(3 courses)*
 
 #### :books: Other education </br>
-- Self dependent studying of testing theory
-  - SDLC, STLC
-  - Architecture and integrations within network
-  - Test design, test management, test artifacts
-  - API, Web, mobile, UI/GUI testing
-  - Sniffing, mocking
-  - Request forming, responce analysis
-  - Git and CI principles
-  - Automation testing 
-- Interactive simulator of working with database on MySQL engine
-- Interactive simulator of devising algorithms with python
+- "QA Manual" course in "Kata programming academy by Java Mentor" and self dependent studying of testing theory
+  - Development models, roles, SDLC, STLC, Agile, Scrum
+  - Testing requirements for compliance with quality properties
+  - Testing classifications, testing levels
+  - Test-cases, check-lists, bug-reports
+  - Test design, test strategy
+  - Planning and estimation
+  - Test plan, report of tested features
+  - API testing, architecture and integrations within network, basic protocols
+  - Working with databases on MySQL engine
+  - Git, CI principles
+- Interactive simulator of working with database on MySQL engine on "Stepik" and "SQL-Ex"
+- Interactive simulator of devising algorithms with python on "Stepik"
 - Experience of programming in courseworks while studied in university
 
 ### :wrench: Technical stack
-- Postman
+- Postman, SoapUI
 - MySQL
 - Fiddler, Charles
-- Chrome DevTools
+- DevTools
 - GitLab
-- JMeter
-- PyCharm, VSCode
-- PyTest, Selenium WebDriver
+- Swagger
+- Jira, Confluence, Qase.io
+- Bash
 
 ### Key points </br>
 - B2 English language
@@ -61,14 +63,8 @@ ___
 ### Working experience<a name="workingexperience"></a>
 ___
 #### :pushpin: Relevant working experience </br>
-Practical testing tasks:
-- [Testing of start page of mortgage insurance service](https://github.com/Ordbe/Start_page_inssmart/blob/main/README.md) (на русском)
-- [Testing item card for service of creating planograms and retail
-merchandise display](https://github.com/Ordbe/Item_card_testing/blob/main/README.md) (на русском)
-- [Testing sleep function in health monitoring app](https://github.com/Ordbe/Sleep_function_testing/blob/main/README.md) (на русском)
-- ["Titlestyle" field testing](https://github.com/Ordbe/Titlestyle_field/blob/main/README.md) (на русском)
-- [Registration form testing](https://github.com/Ordbe/Registration_form_testing/blob/main/README.md) 
-
+1-year manual testing of web services related to commercial activities.
+I was responsible for preparation of new features testing and regression testing.
 
 #### :factory: Near-relevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas and other manufactories. 
