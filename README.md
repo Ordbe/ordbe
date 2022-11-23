@@ -62,8 +62,12 @@ ___
 ### Working experience<a name="workingexperience"></a>
 ___
 #### :pushpin: Relevant working experience </br>
-1-year manual testing of web services related to commercial activities.
-I was responsible for new features testing preparation and regression testing.
+Estimation
+Test strategy selection
+Creating test plan 
+Creating test-cases, check-lists, bug reports
+Preparation of a test completion reports
+Command Scrum-project
 
 #### :factory: Near-relevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas and other manufactories. 
