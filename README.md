@@ -68,6 +68,7 @@ ___
 - Creating test-cases, check-lists, bug reports
 - Preparation of a test completion reports
 - Git experience using bash
+- SQL queries (JOIN, GROUP BY, UNION, aggregate functions, subqueries)
 - API testing with Postman, Swagger and SoapUI
 - Team Scrum-project
 
