@@ -37,6 +37,7 @@ ___
   - Test plan, report of tested features
   - API testing, architecture and integrations within network, basic protocols
   - Working with databases on MySQL engine
+  - Bash, PowerShell
   - Git, CI principles
 - Interactive simulator of working with database on MySQL engine on "Stepik" and "SQL-Ex"
 - Interactive simulator of devising algorithms with python on "Stepik"
