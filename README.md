@@ -63,15 +63,14 @@ ___
 ### Working experience<a name="workingexperience"></a>
 ___
 #### :pushpin: Relevant working experience </br>
-- Estimation
-- Test strategy selection
-- Creating test plan 
+- Estimation and planning of work progress
+- Test strategy identification, participation in creating test-plans
 - Creating test-cases, check-lists, bug reports
 - Preparation of a test completion reports
 - Git experience using bash
 - SQL queries (JOIN, GROUP BY, UNION, aggregate functions, subqueries)
 - API testing with Postman, Swagger and SoapUI
-- Team Scrum-project
+- Layout evaluation in Figma
 
 #### :factory: Near-relevant working experience </br>
 For more than 8 years I was responsible for the quality of final products during work in gas and other manufactories. 
