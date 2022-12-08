@@ -2,12 +2,13 @@
 # Hi, I'm Vadim! :wave: </br>
 ___
 ## Contacts:
-[<img src="https://github.com/Ordbe/ordbe/blob/main/hh-round.png?raw=true">](https://spb.hh.ru/resume/def79e23ff0b79c1470039ed1f70376c613374 "Резюме на hh") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/ordbe "Связаться в Telegram") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/gm-round.png?raw=true">](mailto:ordbetests@gmail.com "Написать на Gmail") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/wh-round.png?raw=true">](https://wa.me/79324137713?text=Вам%20оффер! "Связаться в Whatsapp") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe "Моя инста")
-[<img src="https://github.com/Ordbe/ordbe/blob/main/linkedin-round.png?raw=true">](https://www.linkedin.com/in/ordbe "Связаться в LinkedIn") </br>
+[<img src="https://github.com/Ordbe/ordbe/blob/main/hh-round.png?raw=true">](https://spb.hh.ru/resume/def79e23ff0b79c1470039ed1f70376c613374 "CV on hh") 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/ordbe "Get in touch by Telegram") 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/gm-round.png?raw=true">](mailto:ordbetests@gmail.com "Get in touch by Gmail") 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/wh-round.png?raw=true">](https://wa.me/79324137713?text=Вам%20оффер! "Get in touch by Whatsapp") 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/inst-round.png?raw=true">](https://instagram.com/ordbe "My Instagram")
+[<img src="https://github.com/Ordbe/ordbe/blob/main/linkedin-round.png?raw=true">](https://www.linkedin.com/in/ordbe "Get in touch by LinkedIn") 
+[<img src="https://github.com/Ordbe/ordbe/blob/main/habr-round.png?raw=true">](https://career.habr.com/ordbe "Get in touch by Habr Career") </br>
 :round_pushpin: Batumi, Georgia </br>
 :telephone_receiver: +995 (591) 50-18-47 </br>
 
