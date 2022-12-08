@@ -83,7 +83,7 @@ technical department.
 
 ### :v: About me<a name="aboutme"></a>
 ___
-Zest in development of information products and services was impulsed me to change the area of work.
+Zest in software development was impulsed me to change the area of work.
 Different tasks, communication with associates improved my soft skills and did me able to solve the problems 
 easier and more efficient. In addition general knowledge in computer science and near-mathematical higher education 
 let me to catch up hard skills faster.
