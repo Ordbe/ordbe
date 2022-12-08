@@ -33,7 +33,7 @@ ___
   - Testing requirements for compliance with quality properties
   - Testing classifications, testing levels
   - Test-cases, check-lists, bug-reports
-  - Test design, test strategy
+  - Test design, test strategy identification
   - Planning and estimation
   - Test plan, report of tested features
   - API testing, architecture and integrations within network, basic protocols
